@@ -23,7 +23,7 @@
     <title>E! Online</title>
     <name>E! Online</name>
     <fname>e-online</fname>
-    <desc>Recent news from E! Online.</desc>
+    <desc>Actualités de E! Online</desc>
     <type>RSS</type>
     <timeout>10000</timeout>
     <portlet-descriptor>

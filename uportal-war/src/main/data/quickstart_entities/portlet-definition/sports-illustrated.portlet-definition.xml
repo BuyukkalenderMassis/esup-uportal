@@ -23,7 +23,7 @@
     <title>Sports Illustrated</title>
     <name>Sports Illustrated</name>
     <fname>sports-illustrated</fname>
-    <desc>Top stories from Sports Illustrated</desc>
+    <desc>Principales nouvelles de Sports Illustrated</desc>
     <type>RSS</type>
     <timeout>10000</timeout>
     <portlet-descriptor>

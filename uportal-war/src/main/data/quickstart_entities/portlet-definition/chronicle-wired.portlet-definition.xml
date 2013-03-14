@@ -23,7 +23,7 @@
     <title>The Chronicle: Wired Campus</title>
     <name>The Chronicle: Wired Campus</name>
     <fname>chronicle-wired</fname>
-    <desc>Top stories from The Chronicle of Higher Education: Wired Campus Edition</desc>
+    <desc>Flux d'actualités de "The Chronicle of Higher Education: Wired Campus Edition"</desc>
     <type>RSS</type>
     <timeout>5000</timeout>
     <portlet-descriptor>

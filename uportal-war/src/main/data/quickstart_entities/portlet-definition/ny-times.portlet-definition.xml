@@ -23,7 +23,7 @@
     <title>NY Times</title>
     <name>NY Times</name>
     <fname>ny-times</fname>
-    <desc>Recent news from the NY Times</desc>
+    <desc>Flux d'actualités du New York Times</desc>
     <type>RSS</type>
     <timeout>10000</timeout>
     <portlet-descriptor>

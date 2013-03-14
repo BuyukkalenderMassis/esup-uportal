@@ -23,7 +23,7 @@
     <title>About.com College Life</title>
     <name>About.com College Life</name>
     <fname>about-college-life</fname>
-    <desc>About.com College Life RSS feed</desc>
+    <desc>Flux RSS de About.com College Life</desc>
     <type>RSS</type>
     <timeout>10000</timeout>
     <portlet-descriptor>

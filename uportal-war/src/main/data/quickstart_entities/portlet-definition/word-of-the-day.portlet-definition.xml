@@ -23,7 +23,7 @@
     <title>Word of the Day</title>
     <name>Word of the Day</name>
     <fname>word-of-the-day</fname>
-    <desc>Word of the Day channel</desc>
+    <desc>Word of the Day</desc>
     <type>RSS</type>
     <timeout>10000</timeout>
     <portlet-descriptor>

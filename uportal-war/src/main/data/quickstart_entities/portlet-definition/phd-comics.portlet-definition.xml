@@ -23,7 +23,7 @@
     <title>PHD Comics</title>
     <name>PHD Comics</name>
     <fname>phd-comics</fname>
-    <desc>Latest PHD Comics strip</desc>
+    <desc>Dernières BD de PHD</desc>
     <type>RSS</type>
     <timeout>10000</timeout>
     <portlet-descriptor>

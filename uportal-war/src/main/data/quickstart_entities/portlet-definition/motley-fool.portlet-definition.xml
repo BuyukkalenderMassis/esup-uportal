@@ -23,7 +23,7 @@
     <title>Motley Fool</title>
     <name>The Motley Fool</name>
     <fname>motley-fool</fname>
-    <desc>Motley Fool channel</desc>
+    <desc>Flux d'actualités de Motley Fool</desc>
     <type>RSS</type>
     <timeout>10000</timeout>
     <portlet-descriptor>

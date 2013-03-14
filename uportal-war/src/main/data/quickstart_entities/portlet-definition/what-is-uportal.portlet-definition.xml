@@ -23,7 +23,7 @@
     <title>Bienvenue sur uPortal</title>
     <name>Bienvenue sur uPortal</name>
     <fname>what-is-uportal</fname>
-    <desc>Description d'uPortal.</desc>
+    <desc>Description de uPortal.</desc>
     <type>CMS</type>
     <timeout>10000</timeout>
     <portlet-descriptor>
